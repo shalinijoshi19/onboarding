@@ -1,5 +1,6 @@
 # package managers
 node_modules
+/package.json
 # miscellaneous
 .tmp
 .sass-cache
